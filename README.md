@@ -1,3 +1,4 @@
+# LobbyReveal for Python
 Project used to reveal League of Legends lobbies in champion select. 
 PATCHED
 
